@@ -29,33 +29,3 @@ const TOWAI = {
   env: ["Linux", "Docker", "Kubernetes", "Nginx", "Vite", "Bun"]
 };
 
-# 🌌 TOWAI – Interactive Cyberpunk Neon Profile
-
-**💼 Role:** `System & AI Architect / Fullstack Developer / Security Engineer`  
-**🧠 Mindset:** `Think Deep. Build Precise. Execute Perfect.`
-
----
-
-## 🛰️ Domains & Skills
-
-| Domain | Skill Level | Icon |
-|--------|------------|------|
-| AI & Machine Learning Systems | ██████░░░░ 60% | 🤖 |
-| Fullstack Web + API Architecture | █████████░ 90% | 🌐 |
-| Security & Reverse Engineering | ████████░░ 80% | 🛡️ |
-| System & OS Development | ███████░░░ 70% | 💻 |
-
-> 💡 **Tip:** Hover over the domain to see skill details (if supported by GitHub or Markdown preview tools)
-
----
-
-## 🖥️ Languages & Proficiency
-
-```ts
-TypeScript  ██████████ 100% 🌟
-Python      █████████░ 90% ⚡
-Rust        ████████░░ 80% 🦀
-Go          ███████░░░ 70% 🐹
-C/C++       ████████░░ 80% 💾
-Node.js     █████████░ 90% 🌐
-Bash        ███████░░░ 70% 🐚
