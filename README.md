@@ -28,3 +28,27 @@ const TOWAI = {
   languages: ["TypeScript", "Python", "Rust", "Go", "C/C++", "Node.js", "Bash"],
   env: ["Linux", "Docker", "Kubernetes", "Nginx", "Vite", "Bun"]
 };
+
+# TOWAI
+
+**Role:** System & AI Architect / Fullstack Developer / Security Engineer  
+**Mindset:** Think Deep. Build Precise. Execute Perfect.
+
+---
+
+## Domains
+- AI & Machine Learning Systems
+- Fullstack Web + API Architecture
+- Security & Reverse Engineering
+- System & OS Development
+
+---
+
+## Languages
+TypeScript, Python, Rust, Go, C/C++, Node.js, Bash
+
+---
+
+## Environments & Tools
+Linux, Docker, Kubernetes, Nginx, Vite, Bun
+
