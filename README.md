@@ -1,5 +1,6 @@
 # TOWAI
 <!-- ⚡ TOWAI - GitHub Professional Profile -->
+![Profile](images/profile.png)
 
 <h1 align="center">⚡ TOWAI ⚡</h1>
 <h3 align="center">AI Systems Architect | Fullstack Engineer | Security Specialist</h3>
